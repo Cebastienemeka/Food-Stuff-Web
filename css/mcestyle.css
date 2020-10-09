@@ -1,0 +1,125 @@
+
+h1{
+    color: blue;
+    margin-top: auto;
+    font-size: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:orangered;
+    
+}
+
+ #nav-container{
+     background-color: orangered;
+     padding:2px;
+     justify-content: space-between;
+     word-spacing:10px ;
+     position: relative;
+     
+
+ }
+
+ a:hover{
+     background-color: whitesmoke;
+     text-decoration: underline;
+ }
+  
+
+h3{
+    padding: 10px;
+    margin-bottom: 28px;
+    margin-top: 21px;
+}
+
+body{
+    background-color: yellowgreen;
+}
+
+p{
+    padding: 15px;
+    margin-top: 2px;
+    border-collapse: 19px;
+    border-radius: 8px;
+    border: 2px solid black;
+    float: left;
+}
+
+
+
+.soup-condiments{
+    border: 2px solid black;
+    float: right ;
+    width: 200px;
+    height: 200px; 
+    border-radius: 5px;
+    position: relative;
+    right:1%;
+}
+
+
+.form{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 2px;
+    border:2px solid black;
+    font-family: cursive;
+    display: block;
+}
+
+.food-stuff{
+    border: 2px solid black;
+    float: right;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: 2%;
+}
+
+.liquid{
+    border: 2px solid black;
+    float: right;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right:3%;
+  
+}
+
+.Provision{
+    border: 2px solid black;
+    float: right;
+    border-radius: 5px;
+    margin: auto; 
+    box-sizing: border-box;
+    position: relative;
+    right:4%;
+    
+
+}
+
+#footer{
+    background-color: orangered;
+    color: blue;
+    text-align: center;
+    clear: both;
+    position: relative;
+    width: 100%;
+    top: 250px;
+}
+
+.submit{
+    border: 1px solid black;
+    background: orangered;
+    color: blue;
+    border-radius: 3px;  
+    position: relative; 
+    left: 5px;
+    top: 5px;
+    padding: 4px;
+    margin: 2px;
+}
+
+
+
+
